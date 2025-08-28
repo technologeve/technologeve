@@ -5,8 +5,9 @@
 👾 Hackathon Organiser   
 🤖 AI Safety Enthusiast  
 
-#### Project hightlights
-_Coming soon!_
+#### Project highlights
+[![calorfree](https://github-readme-stats.vercel.app/api/pin/?username=technologeve&repo=calorfree&theme=graywhite)](https://github.com/technologeve/calorfree)
+
 
 #### Check out some things I've written!
 [Should you trust artificial intelligence for urostomy advice?](https://urostomyassociation.org.uk/information-pages/should-you-trust-ai/)  
