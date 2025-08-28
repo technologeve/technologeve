@@ -12,15 +12,7 @@ _Coming soon!_
 [Should you trust artificial intelligence for urostomy advice?](https://urostomyassociation.org.uk/information-pages/should-you-trust-ai/)  
 [Inspiring Innovation at DurHack 2024](https://www.rs-online.com/designspark/inspiring-innovation-at-durhack-2024)
 
-### 📊 GitHub Stats 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=technologeve&show_icons=true&hide_border=true&theme=buefy&hide=stars,issues,contribs&hide_rank=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologeve&layout=compact&hide_border=true&theme=buefy&hide=Jupyter%20Notebook" height="180em" />
-</p>
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=technologeve&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs&hide_rank=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technologeve&layout=compact&hide_border=true&theme=tokyonight&hide=Jupyter%20Notebook)   -->
-
-### My most commonly used languages & tools
+#### My most commonly used languages & tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
@@ -28,4 +20,8 @@ _Coming soon!_
   <img src="https://img.shields.io/badge/Stan-CC0000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=technologeve&show_icons=true&hide_border=true&theme=graywhite&hide=stars,issues,contribs&hide_rank=true" height="120em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologeve&layout=compact&hide_border=true&theme=graywhite&hide=Jupyter%20Notebook" height="120em" />
 </p>
