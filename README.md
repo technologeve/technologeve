@@ -5,28 +5,29 @@
 
 
 #### Posts & publications
+<div style="border: 1px solid #e4e4e4; border-radius: 8px; background-color: #fefefe; padding: 16px; width: 260px; margin-bottom: 16px;">
+  <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 8px;">
+      <path fill="#6a737d" d="..."/>
+    </svg>
+    <span style="font-weight: bold; font-size: 0.95em;">Should you trust AI for urostomy advice?</span>
+  </div>
+  <div style="font-size: 0.8em; color: #24292e; margin-bottom: 12px;">
+    Exploring the reliability of artificial intelligence in healthcare guidance for urostomates. Aimed at a non-technical audience.
+  </div>
+  <div style="display: flex; align-items: center; gap: 6px; font-size: 0.85em; color: #333;">
+    <span style="height: 12px; width: 12px; border-radius: 50%; background-color: #24b9ab; display: inline-block;"></span>
+    Urostomy Association
+  </div>
+  <a href="https://urostomyassociation.org.uk/information-pages/should-you-trust-ai/" target="_blank" style="display: inline-block; margin-top: 12px; font-size: 0.85em; color: #0366d6; text-decoration: none;">Read Article →</a>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
 
   <!-- UA -->
-  <div style="border: 1px solid #e4e4e4; border-radius: 8px; background-color: #fefefe; padding: 16px; width: 260px;">
-    <a href="https://urostomyassociation.org.uk/information-pages/should-you-trust-ai/" target="_blank" style="text-decoration: none; color: inherit;">
-      <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 8px;">
-        <div style="font-weight: bold; font-size: 0.95em;">Should you trust AI for urostomy advice?</div>
-      </div>
-      <div style="font-size: 0.8em; color: #24292e; margin-bottom: 12px;">
-        Exploring the reliability of artificial intelligence in healthcare guidance for urostomates. Aimed at a non-technical audience.
-      </div>
-      <div style="display: flex; align-items: center; gap: 6px; font-size: 0.85em; color: #333;">
-        <span style="height: 12px; width: 12px; border-radius: 50%; background-color: #24b9ab; display: inline-block;"></span>
-        Urostomy Association
-      </div>
-    </a>
-  </div>
+
 
   <!-- RS -->
   <div style="border: 1px solid #e4e4e4; border-radius: 8px; background-color: #fefefe; padding: 16px; width: 260px;">
-    <a href="https://www.rs-online.com/designspark/inspiring-innovation-at-durhack-2024" target="_blank" style="text-decoration: none; color: inherit;">
       <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 8px;">
         <div style="font-weight: bold; font-size: 0.95em;">Inspiring Innovation at DurHack 2024</div>
       </div>
@@ -37,14 +38,13 @@
         <span style="height: 12px; width: 12px; border-radius: 50%; background-color: #ef0000; display: inline-block;"></span>
         RS DesignSpark
       </div>
-    </a>
+      <a href="https://www.rs-online.com/designspark/inspiring-innovation-at-durhack-2024" target="_blank" style="display: inline-block; margin-top: 12px; font-size: 0.85em; color: #0366d6; text-decoration: none;">Read Article →</a>
   </div>
 
 </div>   
 <br>
 <!-- BCS -->
   <div style="border: 1px solid #e4e4e4; border-radius: 8px; background-color: #fefefe; padding: 16px; width: 260px;">
-    <a href="https://github.com/technologeve/ai-healthcare-greener" target="_blank" style="text-decoration: none; color: inherit;">
       <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 8px;">
         <div style="font-weight: bold; font-size: 0.95em;">Can AI help make our healthcare system greener?</div>
       </div>
@@ -55,7 +55,7 @@
         <span style="height: 12px; width: 12px; border-radius: 50%; background-color: #006633; display: inline-block;"></span>
         BCS Lovelace Colloquium 2024
       </div>
-    </a>
+    <a href="https://github.com/technologeve/ai-healthcare-greener" target="_blank" style="display: inline-block; margin-top: 12px; font-size: 0.85em; color: #0366d6; text-decoration: none;">Read Article →</a>
   </div>
 
 #### Project highlights. 
