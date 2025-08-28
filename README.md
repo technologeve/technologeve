@@ -1,64 +1,20 @@
 #### A bit about me
-🔭 Maths and Computer Science student at Durham University
+🔭 Maths and Computer Science student at Durham University  
 👾 Hackathon Organiser   
 🤖 AI Safety Enthusiast  
 
 
 #### Posts & publications
-<div style="border: 1px solid #e4e4e4; border-radius: 8px; background-color: #fefefe; padding: 16px; width: 260px; margin-bottom: 16px;">
-  <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 8px;">
-      <path fill="#6a737d" d="..."/>
-    </svg>
-    <span style="font-weight: bold; font-size: 0.95em;">Should you trust AI for urostomy advice?</span>
-  </div>
-  <div style="font-size: 0.8em; color: #24292e; margin-bottom: 12px;">
-    Exploring the reliability of artificial intelligence in healthcare guidance for urostomates. Aimed at a non-technical audience.
-  </div>
-  <div style="display: flex; align-items: center; gap: 6px; font-size: 0.85em; color: #333;">
-    <span style="height: 12px; width: 12px; border-radius: 50%; background-color: #24b9ab; display: inline-block;"></span>
-    Urostomy Association
-  </div>
-  <a href="https://urostomyassociation.org.uk/information-pages/should-you-trust-ai/" target="_blank" style="display: inline-block; margin-top: 12px; font-size: 0.85em; color: #0366d6; text-decoration: none;">Read Article →</a>
-</div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-
-  <!-- UA -->
+|  | |
+|:-----------|------------:|
+| **Should you trust AI for urostomy advice?** <br>  Exploring the reliability of artificial intelligence in healthcare guidance for urostomates. Aimed at a non-technical audience.      | [![Urostomy Association](https://img.shields.io/badge/Urostomy%20Association-24B9AB?style=flat)](https://urostomyassociation.org.uk/information-pages/should-you-trust-ai/)         |
+| **Inspiring Innovation at DurHack 2024** <br>  Highlighting how DurHack 2024 inspired innovative projects and a look behind the scenes at hackathon organising    | [![RS DesignSpark](https://img.shields.io/badge/RS%20DesignSpark-EF0000?style=flat)](https://www.rs-online.com/designspark/inspiring-innovation-at-durhack-2024 )         |
+| **Can AI help make our healthcare system greener?** <br> Investigating the use of AI to reduce healthcare's environmental impact. Poster and supporting code.| [![BCS Lovelace Colloqiuum](https://img.shields.io/badge/BCS%20Lovelace%20Colloquium-006633?style=flat)](https://github.com/technologeve/ai-healthcare-greener) |
 
 
-  <!-- RS -->
-  <div style="border: 1px solid #e4e4e4; border-radius: 8px; background-color: #fefefe; padding: 16px; width: 260px;">
-      <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 8px;">
-        <div style="font-weight: bold; font-size: 0.95em;">Inspiring Innovation at DurHack 2024</div>
-      </div>
-      <div style="font-size: 0.8em; color: #24292e; margin-bottom: 12px;">
-        Highlighting how DurHack 2024 inspired innovative projects and a look behind the scenes at hackathon organising.
-      </div>
-      <div style="display: flex; align-items: center; gap: 6px; font-size: 0.85em; color: #333;">
-        <span style="height: 12px; width: 12px; border-radius: 50%; background-color: #ef0000; display: inline-block;"></span>
-        RS DesignSpark
-      </div>
-      <a href="https://www.rs-online.com/designspark/inspiring-innovation-at-durhack-2024" target="_blank" style="display: inline-block; margin-top: 12px; font-size: 0.85em; color: #0366d6; text-decoration: none;">Read Article →</a>
-  </div>
 
-</div>   
-<br>
-<!-- BCS -->
-  <div style="border: 1px solid #e4e4e4; border-radius: 8px; background-color: #fefefe; padding: 16px; width: 260px;">
-      <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 8px;">
-        <div style="font-weight: bold; font-size: 0.95em;">Can AI help make our healthcare system greener?</div>
-      </div>
-      <div style="font-size: 0.8em; color: #24292e; margin-bottom: 12px;">
-        Investigating the use of AI to reduce healthcare's environmental impact. Poster and supporting code.
-      </div>
-      <div style="display: flex; align-items: center; gap: 6px; font-size: 0.85em; color: #333;">
-        <span style="height: 12px; width: 12px; border-radius: 50%; background-color: #006633; display: inline-block;"></span>
-        BCS Lovelace Colloquium 2024
-      </div>
-    <a href="https://github.com/technologeve/ai-healthcare-greener" target="_blank" style="display: inline-block; margin-top: 12px; font-size: 0.85em; color: #0366d6; text-decoration: none;">Read Article →</a>
-  </div>
-
-#### Project highlights. 
+#### Project highlights
 [![calorfree](https://github-readme-stats.vercel.app/api/pin/?username=technologeve&repo=calorfree&theme=graywhite)](https://github.com/technologeve/calorfree)
 
 [![Goodreads Data Visualisation](https://github-readme-stats.vercel.app/api/pin/?username=technologeve&repo=goodreads-data-visualisation&theme=graywhite)](https://github.com/technologeve/goodreads-data-visualisation)
