@@ -12,17 +12,6 @@
 | [**```Can AI help make our healthcare system greener?```**](https://github.com/technologeve/ai-healthcare-greener) <br> **Investigating the use of AI to reduce healthcare's environmental impact. Poster and supporting code.**| [![BCS Lovelace Colloqiuum](https://img.shields.io/badge/BCS%20Lovelace%20Colloquium-006633?style=for-the-badge)](https://github.com/technologeve/ai-healthcare-greener) |
 
 
-
-### Project highlights
-[![calorfree](https://github-readme-stats.vercel.app/api/pin/?username=technologeve&repo=calorfree&theme=graywhite)](https://github.com/technologeve/calorfree)
-
-[![Goodreads Data Visualisation](https://github-readme-stats.vercel.app/api/pin/?username=technologeve&repo=goodreads-data-visualisation&theme=graywhite)](https://github.com/technologeve/goodreads-data-visualisation)
-
-[![Learning ml](https://github-readme-stats.vercel.app/api/pin/?username=technologeve&repo=learning-ml&theme=graywhite)](https://github.com/technologeve/learning-ml)
-
-[![A helping hand](https://github-readme-stats.vercel.app/api/pin/?username=technologeve&repo=a_helping_hand&theme=graywhite)](https://github.com/technologeve/a_helping_hand)
-
-
 ### My most commonly used languages & tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
