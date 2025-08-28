@@ -14,8 +14,8 @@ _Coming soon!_
 
 ### 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=technologeve&show_icons=true&hide_border=true&theme=gruvbox_light&hide=stars,issues,contribs&hide_rank=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologeve&layout=compact&hide_border=true&theme=gruvbox_light&hide=Jupyter%20Notebook" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=technologeve&show_icons=true&hide_border=true&theme=buefy&hide=stars,issues,contribs&hide_rank=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologeve&layout=compact&hide_border=true&theme=buefy&hide=Jupyter%20Notebook" height="180em" />
 </p>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=technologeve&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs&hide_rank=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technologeve&layout=compact&hide_border=true&theme=tokyonight&hide=Jupyter%20Notebook)   -->
