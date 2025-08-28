@@ -13,7 +13,7 @@ _Coming soon!_
 [Inspiring Innovation at DurHack 2024](https://www.rs-online.com/designspark/inspiring-innovation-at-durhack-2024)
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=technologeve&show_icons=true&hide_border=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=technologeve&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technologeve&layout=compact&hide_border=true&theme=tokyonight&hide=Jupyter%20Notebook)  
 
 ### 🛠️ Tools & Tech  
