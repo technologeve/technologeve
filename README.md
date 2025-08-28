@@ -6,10 +6,10 @@
 
 ### Posts & publications
 
-| **Should you trust AI for urostomy advice?** <br>  Exploring the reliability of artificial intelligence in healthcare guidance for urostomates. Aimed at a non-technical audience.      | [![Urostomy Association](https://img.shields.io/badge/Urostomy%20Association-24B9AB?style=for-the-badge)](https://urostomyassociation.org.uk/information-pages/should-you-trust-ai/)         |
+| **```Should you trust AI for urostomy advice?```** <br> **Exploring the reliability of artificial intelligence in healthcare guidance for urostomates. Aimed at a non-technical audience.**      | [![Urostomy Association](https://img.shields.io/badge/Urostomy%20Association-24B9AB?style=for-the-badge)](https://urostomyassociation.org.uk/information-pages/should-you-trust-ai/)         |
 |:-----------|------------:|
-| **Inspiring Innovation at DurHack 2024** <br>  Highlighting how DurHack 2024 inspired innovative projects and a look behind the scenes at hackathon organising    | [![RS DesignSpark](https://img.shields.io/badge/RS%20DesignSpark-EF0000?style=for-the-badge)](https://www.rs-online.com/designspark/inspiring-innovation-at-durhack-2024 )         |
-| **Can AI help make our healthcare system greener?** <br> Investigating the use of AI to reduce healthcare's environmental impact. Poster and supporting code.| [![BCS Lovelace Colloqiuum](https://img.shields.io/badge/BCS%20Lovelace%20Colloquium-006633?style=for-the-badge)](https://github.com/technologeve/ai-healthcare-greener) |
+| **```Inspiring Innovation at DurHack 2024```** <br> **Highlighting how DurHack 2024 inspired innovative projects and a look behind the scenes at hackathon organising**    | [![RS DesignSpark](https://img.shields.io/badge/RS%20DesignSpark-EF0000?style=for-the-badge)](https://www.rs-online.com/designspark/inspiring-innovation-at-durhack-2024 )         |
+| **```Can AI help make our healthcare system greener?```** <br> **Investigating the use of AI to reduce healthcare's environmental impact. Poster and supporting code.**| [![BCS Lovelace Colloqiuum](https://img.shields.io/badge/BCS%20Lovelace%20Colloquium-006633?style=for-the-badge)](https://github.com/technologeve/ai-healthcare-greener) |
 
 
 
