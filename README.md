@@ -1,10 +1,10 @@
-#### A bit about me
+### A bit about me
 🔭 Maths and Computer Science student at Durham University  
 👾 Hackathon Organiser   
 🤖 AI Safety Enthusiast  
 
 
-#### Posts & publications
+### Posts & publications
 
 |  | |
 |:-----------|------------:|
@@ -14,7 +14,7 @@
 
 
 
-#### Project highlights
+### Project highlights
 [![calorfree](https://github-readme-stats.vercel.app/api/pin/?username=technologeve&repo=calorfree&theme=graywhite)](https://github.com/technologeve/calorfree)
 
 [![Goodreads Data Visualisation](https://github-readme-stats.vercel.app/api/pin/?username=technologeve&repo=goodreads-data-visualisation&theme=graywhite)](https://github.com/technologeve/goodreads-data-visualisation)
@@ -24,7 +24,7 @@
 [![A helping hand](https://github-readme-stats.vercel.app/api/pin/?username=technologeve&repo=a_helping_hand&theme=graywhite)](https://github.com/technologeve/a_helping_hand)
 
 
-#### My most commonly used languages & tools
+### My most commonly used languages & tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
