@@ -12,9 +12,13 @@ _Coming soon!_
 [Should you trust artificial intelligence for urostomy advice?](https://urostomyassociation.org.uk/information-pages/should-you-trust-ai/)  
 [Inspiring Innovation at DurHack 2024](https://www.rs-online.com/designspark/inspiring-innovation-at-durhack-2024)
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=technologeve&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technologeve&layout=compact&hide_border=true&theme=tokyonight&hide=Jupyter%20Notebook)  
+### 📊 GitHub Stats 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=technologeve&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs&hide_rank=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologeve&layout=compact&hide_border=true&theme=tokyonight&hide=Jupyter%20Notebook" height="180em" />
+</p>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=technologeve&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs&hide_rank=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technologeve&layout=compact&hide_border=true&theme=tokyonight&hide=Jupyter%20Notebook)   -->
 
 ### 🛠️ Tools & Tech  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   
