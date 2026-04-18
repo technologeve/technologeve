@@ -1,6 +1,6 @@
 ### A bit about me
 🔭 Maths and Computer Science student at Durham University  
-🤖 AI Safety Researcher
+🤖 AI Safety Researcher  
 👾 Ex-Hackathon Organiser    
 
 
